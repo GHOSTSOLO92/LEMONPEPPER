@@ -1,0 +1,1 @@
+{"name":"hero-bastion-defense","version":"1.0.0","private":true,"scripts":{"dev":"vite","build":"vite build","serve":"vite preview"},"dependencies":{"react":"^17.0.2","react-dom":"^17.0.2","three":"^0.128.0","@react-three/fiber":"^7.0.5","zustand":"^3.5.10","tailwindcss":"^2.2.19"},"devDependencies":{"typescript":"^4.5.5","vite":"^2.6.4"}}
